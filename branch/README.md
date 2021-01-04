@@ -1,1 +1,1 @@
-A NEW README VERSION
+Hello world\n
